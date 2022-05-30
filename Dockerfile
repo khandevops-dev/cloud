@@ -1,5 +1,5 @@
 FROM centos:latest
-MAINTAINER emailtonadeemkhan@gmail.com
+MAINTAINER flp.nadeemkhan@gmail.com
 RUN yum install -y httpd \
 zip \
 unzip
